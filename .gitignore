@@ -1,0 +1,6 @@
+# ne pas récuperer les fichier csv de Src/csv
+# ne pas récuperer le dossier democratie_data
+
+
+Src/csv/*.csv
+democratie_data/
